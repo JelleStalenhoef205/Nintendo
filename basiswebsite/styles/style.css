@@ -1,0 +1,17 @@
+/**************/
+/* CSS REMEDY */
+/**************/
+*, *::after, *::before {
+  box-sizing:border-box;  
+}
+
+nav{
+	height: 3em;
+    width: 100%;
+    background-color: #0ca789;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em;
+    border-radius: 1em;
+}
